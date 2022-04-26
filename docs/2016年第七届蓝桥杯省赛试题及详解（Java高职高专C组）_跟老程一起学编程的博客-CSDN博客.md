@@ -1,5 +1,5 @@
 <!--yml
-category: 蓝桥杯wiki
+category: 蓝桥杯
 date: 2022-04-26 11:10:15
 -->
 
